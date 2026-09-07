@@ -331,7 +331,10 @@ def test_real_isolated_smoke_integration(
 
 def test_workflow_has_required_security_and_commands() -> None:
     workflow = WORKFLOW_PATH.read_text(encoding="utf-8")
-    assert "on:\n  push:\n  pull_request:\n  workflow_dispatch:" in workflow
+    assert (
+        "on:\n  push:\n    branches: [main]\n  pull_request:\n  workflow_dispatch:"
+        in workflow
+    )
     assert "pull_request_target" not in workflow
     assert "permissions:\n  contents: read" in workflow
     assert workflow.count("runs-on:") == 1
