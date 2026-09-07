@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<title>Failure and exception gallery</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="70.00" y="70.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="34" font-weight="600" text-anchor="start" letter-spacing="0">FAILURE AND EXCEPTION GALLERY</text>
+<rect x="70.00" y="150.00" width="450.00" height="320.00" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+<text x="95.00" y="195.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0">ADAPTIVE SMALLEST OR ADVERSE IM</text>
+<text x="95.00" y="232.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0">PROVEMENT</text>
+<rect x="310.00" y="263.00" width="0.01" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="90.00" y="280.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">UNIFORM_LINEAR_STR</text>
+<text x="490.00" y="280.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">0.026</text>
+<rect x="310.00" y="308.00" width="0.02" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="90.00" y="325.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">POSITION_BOUNDED_L</text>
+<text x="490.00" y="325.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">0.038</text>
+<rect x="310.00" y="353.00" width="105.00" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="90.00" y="370.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">UNIFORM_LINEAR_STR</text>
+<text x="490.00" y="370.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">242.000</text>
+<rect x="310.00" y="398.00" width="43.39" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="90.00" y="415.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">POSITION_BOUNDED_L</text>
+<text x="490.00" y="415.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">100.000</text>
+<text x="95.00" y="450.00" fill="#64748b" font-family="Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="0">SCENARIO-DB9A728F353D8D33</text>
+<rect x="580.00" y="150.00" width="450.00" height="320.00" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+<text x="605.00" y="195.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0">HERMITE LARGEST SEMANTIC LOSS</text>
+<text x="605.00" y="232.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0"></text>
+<rect x="820.00" y="263.00" width="0.34" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="600.00" y="280.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">POSITION_BOUNDED_L</text>
+<text x="1000.00" y="280.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">0.952</text>
+<rect x="820.00" y="308.00" width="0.20" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="600.00" y="325.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">UNCONSTRAINED_HERM</text>
+<text x="1000.00" y="325.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">0.560</text>
+<rect x="820.00" y="353.00" width="105.00" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="600.00" y="370.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">POSITION_BOUNDED_L</text>
+<text x="1000.00" y="370.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">295.000</text>
+<rect x="820.00" y="398.00" width="92.54" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="600.00" y="415.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">UNCONSTRAINED_HERM</text>
+<text x="1000.00" y="415.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">260.000</text>
+<text x="605.00" y="450.00" fill="#64748b" font-family="Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="0">SCENARIO-82E2C90AB86DC222</text>
+<rect x="1090.00" y="150.00" width="450.00" height="320.00" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+<text x="1115.00" y="195.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0">HYBRID LITTLE ADVANTAGE</text>
+<text x="1115.00" y="232.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0"></text>
+<rect x="1330.00" y="263.00" width="0.00" height="22.00" fill="#e14e46" stroke="none" stroke-width="1"/>
+<text x="1110.00" y="280.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">POSITION_ADVANTAGE</text>
+<text x="1510.00" y="280.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">-0.000</text>
+<rect x="1330.00" y="308.00" width="0.01" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="1110.00" y="325.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">VELOCITY_ADVANTAGE</text>
+<text x="1510.00" y="325.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">0.005</text>
+<rect x="1330.00" y="353.00" width="0.05" height="22.00" fill="#e14e46" stroke="none" stroke-width="1"/>
+<text x="1110.00" y="370.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">SEMANTIC_ADVANTAGE</text>
+<text x="1510.00" y="370.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">-0.026</text>
+<rect x="1330.00" y="398.00" width="105.00" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="1110.00" y="415.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">UNCONSTRAINED_HERM</text>
+<text x="1510.00" y="415.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">49.000</text>
+<text x="1115.00" y="450.00" fill="#64748b" font-family="Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="0">SCENARIO-A2CA0CAA0C6BFF82</text>
+<rect x="70.00" y="540.00" width="450.00" height="320.00" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+<text x="95.00" y="585.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0">ROBUSTNESS CITY EXCEPTION 1</text>
+<text x="95.00" y="622.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0"></text>
+<rect x="310.00" y="653.00" width="0.00" height="22.00" fill="#e14e46" stroke="none" stroke-width="1"/>
+<text x="90.00" y="670.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">SCENARIO_METHOD_B_</text>
+<text x="490.00" y="670.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">-0.002</text>
+<rect x="310.00" y="698.00" width="0.00" height="22.00" fill="#e14e46" stroke="none" stroke-width="1"/>
+<text x="90.00" y="715.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">STRATUM_METHOD_B_A</text>
+<text x="490.00" y="715.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">-0.000</text>
+<rect x="310.00" y="743.00" width="86.67" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="90.00" y="760.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">UNCONSTRAINED_HERM</text>
+<text x="490.00" y="760.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">52.000</text>
+<rect x="310.00" y="788.00" width="105.00" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="90.00" y="805.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">POSITION_VELOCITY_</text>
+<text x="490.00" y="805.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">63.000</text>
+<text x="95.00" y="840.00" fill="#64748b" font-family="Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="0">SCENARIO-7BEEAE61043F6647</text>
+<rect x="580.00" y="540.00" width="450.00" height="320.00" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+<text x="605.00" y="585.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0">ROBUSTNESS CITY EXCEPTION 2</text>
+<text x="605.00" y="622.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0"></text>
+<rect x="820.00" y="653.00" width="0.00" height="22.00" fill="#e14e46" stroke="none" stroke-width="1"/>
+<text x="600.00" y="670.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">SCENARIO_METHOD_B_</text>
+<text x="1000.00" y="670.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">-0.001</text>
+<rect x="820.00" y="698.00" width="0.00" height="22.00" fill="#e14e46" stroke="none" stroke-width="1"/>
+<text x="600.00" y="715.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">STRATUM_METHOD_B_A</text>
+<text x="1000.00" y="715.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">-0.000</text>
+<rect x="820.00" y="743.00" width="92.42" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="600.00" y="760.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">UNCONSTRAINED_HERM</text>
+<text x="1000.00" y="760.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">235.000</text>
+<rect x="820.00" y="788.00" width="105.00" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="600.00" y="805.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">POSITION_VELOCITY_</text>
+<text x="1000.00" y="805.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">267.000</text>
+<text x="605.00" y="840.00" fill="#64748b" font-family="Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="0">SCENARIO-F25F2EE8ACFA3FA9</text>
+<rect x="1090.00" y="540.00" width="450.00" height="320.00" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+<text x="1115.00" y="585.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0">AGENT CYCLIST</text>
+<text x="1115.00" y="622.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="17" font-weight="600" text-anchor="start" letter-spacing="0"></text>
+<rect x="1330.00" y="653.00" width="2.62" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="1110.00" y="670.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">POSITION_MAXIMUM_M</text>
+<text x="1510.00" y="670.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">0.100</text>
+<rect x="1330.00" y="698.00" width="105.00" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="1110.00" y="715.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">SEGMENT_COUNT</text>
+<text x="1510.00" y="715.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">4.000</text>
+<rect x="1330.00" y="743.00" width="0.00" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="1110.00" y="760.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">HOLD_COUNT</text>
+<text x="1510.00" y="760.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">0.000</text>
+<rect x="1330.00" y="788.00" width="105.00" height="22.00" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="1110.00" y="805.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" letter-spacing="0">LINEAR_COUNT</text>
+<text x="1510.00" y="805.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="end" letter-spacing="0">4.000</text>
+<text x="1115.00" y="840.00" fill="#64748b" font-family="Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="0">TRAJECTORY-DD7D2873C95E7B5C</text>
+</svg>

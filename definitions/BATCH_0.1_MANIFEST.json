@@ -1,0 +1,12 @@
+{
+  "batch": "0.1",
+  "name": "Project Charter and Research Scope",
+  "phase": "0",
+  "files": [
+    "definitions/README.md",
+    "definitions/00_project_charter.md",
+    "definitions/02_scope_and_non_goals.md",
+    "definitions/glossary.md"
+  ],
+  "archive_layout": "Extract from the repository root. The archive contains a top-level definitions/ directory."
+}

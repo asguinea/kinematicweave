@@ -1,0 +1,23 @@
+\begin{table*}[t]
+\centering
+\caption{Primary matched-storage results from the frozen 300-scenario test cohort. Configuration selection used achieved storage only, and achieved ratios are close but not identical. RDP provides only a geometric path tolerance; full complexity and statistical fields remain in the accepted evidence.}
+\label{tab:primary-matched-byte}
+\small
+\setlength{\tabcolsep}{2pt}
+\begin{tabular}{@{}llrrrrrl@{}}
+\toprule
+Method & Configuration & Bytes/raw & P95 pos. & Mean vel. & Max vel. & Sem. F1 & Guarantee \\
+ &  &  & (m) & (m/s) & (m/s) &  &  \\
+\midrule
+Uniform linear & stride 10 & 0.4802 & 0.4973 & 0.1352 & 18.461 & 0.8816 & none \\
+Uniform Hermite & stride 10 & 0.4806 & 0.4788 & 0.4722 & 34.160 & 0.5770 & none \\
+Fixed-interval linear & 1,000 ms & 0.4806 & 0.4973 & 0.1352 & 18.461 & 0.8816 & none \\
+RDP linear & 0.05 m & 0.4419 & 0.9455 & 0.1940 & 17.148 & 0.8783 & \shortstack[l]{geom. path tol. only\\(0.05 m)} \\
+\addlinespace[2pt]
+\textbf{Position-bounded linear} & 0.10 m & 0.5074 & 0.0918 & 0.0814 & 17.148 & 0.9121 & pos. $\leq$ 0.10 m \\
+\textbf{Position/velocity hybrid} & \shortstack[l]{0.10 m /\\1.00 m/s} & 0.4913 & 0.0806 & 0.1166 & 1.000 & 0.8860 & \shortstack[l]{pos. $\leq$ 0.10 m;\\repr. vel. $\leq$ 1.00 m/s} \\
+\addlinespace[2pt]
+Unconstrained Hermite & 0.10 m & 0.4699 & 0.0807 & 0.2745 & 26.062 & 0.7274 & pos. $\leq$ 0.10 m \\
+\bottomrule
+\end{tabular}
+\end{table*}

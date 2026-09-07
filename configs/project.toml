@@ -1,0 +1,10 @@
+schema_version = "1.0"
+project_name = "KinematicWeave"
+root_seed = 0
+
+[paths]
+data = "data"
+results = "results"
+reports = "reports"
+figures = "figures"
+qualitative = "qualitative"
