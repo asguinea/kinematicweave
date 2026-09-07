@@ -1,5 +1,9 @@
 # KinematicWeave
 
+[![Quality](https://github.com/asguinea/kinematicweave/actions/workflows/quality.yml/badge.svg?branch=main)](https://github.com/asguinea/kinematicweave/actions/workflows/quality.yml)
+[![CodeQL](https://github.com/asguinea/kinematicweave/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/asguinea/kinematicweave/actions/workflows/codeql.yml)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
+
 KinematicWeave is a deterministic Python toolkit for representing dynamic 3D
 scenes as persistent spatial records plus time-indexed procedural motion. It
 includes typed data contracts, exact and error-bounded trajectory codecs,

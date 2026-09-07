@@ -12,6 +12,6 @@
       reviewed initial commit.
 - [x] Enable private vulnerability reporting, Dependabot alerts, secret
       scanning, push protection, and code scanning.
-- [ ] Protect the default branch and require the Quality and CodeQL checks.
+- [x] Protect the default branch and require the Quality and CodeQL checks.
 - [x] Add a concise repository description and topics on GitHub.
 - [ ] Create a signed `v0.1.0-alpha` tag only after the default branch is green.
