@@ -1,0 +1,41 @@
+"""Comparable deterministic motion-representation baselines."""
+
+from kinematicweave.baselines.motion import (
+    BASELINE_IMPLEMENTATION_VERSION,
+    BaselineMethod,
+    BaselineReplayValidation,
+    CanonicalScenarioBundle,
+    MotionBaselineConfig,
+    baseline_config_from_json,
+    baseline_config_identity,
+    baseline_config_to_canonical_json,
+    baseline_keyframe_count,
+    baseline_source_keyframes,
+    encode_scenario_baseline,
+    encode_trajectory_baseline,
+    evaluate_raw_trajectory,
+    included_motion_trajectories,
+    read_canonical_scenario_bundle,
+    required_baseline_grid,
+    validate_baseline_replay,
+)
+
+__all__ = [
+    "BASELINE_IMPLEMENTATION_VERSION",
+    "BaselineMethod",
+    "BaselineReplayValidation",
+    "CanonicalScenarioBundle",
+    "MotionBaselineConfig",
+    "baseline_config_from_json",
+    "baseline_config_identity",
+    "baseline_config_to_canonical_json",
+    "baseline_keyframe_count",
+    "baseline_source_keyframes",
+    "encode_scenario_baseline",
+    "encode_trajectory_baseline",
+    "evaluate_raw_trajectory",
+    "included_motion_trajectories",
+    "read_canonical_scenario_bundle",
+    "required_baseline_grid",
+    "validate_baseline_replay",
+]

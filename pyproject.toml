@@ -1,0 +1,122 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "kinematicweave"
+version = "0.1.0a0"
+description = "Deterministic symbolic representations and evaluation tools for dynamic 3D scenes."
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+license = "Apache-2.0"
+license-files = ["LICENSE", "NOTICE"]
+authors = [{ name = "Alejandro Sanchez Guinea" }]
+keywords = [
+    "3d-scenes",
+    "motion",
+    "reproducible-research",
+    "trajectory-compression",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Typing :: Typed",
+]
+dependencies = [
+    "numpy>=2.5.1",
+    "pillow>=12.3.0",
+    "polars>=1.44.1",
+    "pyarrow>=25.0.0",
+    "shapely>=2.1.2",
+]
+
+[project.scripts]
+kinematicweave = "kinematicweave.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/asguinea/kinematicweave"
+Repository = "https://github.com/asguinea/kinematicweave"
+Issues = "https://github.com/asguinea/kinematicweave/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/kinematicweave"]
+
+[dependency-groups]
+dev = [
+    "mypy",
+    "pytest",
+    "ruff",
+]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 88
+src = ["src", "tests", "scripts"]
+extend-exclude = [
+    "data",
+    "figures",
+    "qualitative",
+    "results",
+]
+
+[tool.ruff.lint]
+select = [
+    "A",
+    "B",
+    "BLE",
+    "E4",
+    "E7",
+    "E9",
+    "F",
+    "I",
+    "NPY",
+    "PLR0124",
+    "RUF",
+    "SIM",
+    "T20",
+    "UP",
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["kinematicweave"]
+force-sort-within-sections = true
+
+[tool.ruff.lint.per-file-ignores]
+"scripts/quality.py" = ["T201"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "lf"
+
+[tool.mypy]
+python_version = "3.12"
+mypy_path = ["src"]
+strict = true
+warn_unused_ignores = true
+warn_unreachable = true
+show_error_codes = true
+pretty = true
+explicit_package_bases = true
+exclude = [
+    '(^|[\\/])(\.venv|\.mypy_cache|\.pytest_cache|\.ruff_cache|build|data|dist|figures|qualitative|results)([\\/]|$)',
+]
+
+[tool.pytest.ini_options]
+minversion = "9.0"
+addopts = [
+    "-ra",
+    "--strict-config",
+    "--strict-markers",
+]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+xfail_strict = true

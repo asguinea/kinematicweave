@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<title>Semantic-event preservation</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="70.00" y="70.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="34" font-weight="600" text-anchor="start" letter-spacing="0">SEMANTIC-EVENT PRESERVATION</text>
+<text x="70.00" y="110.00" fill="#64748b" font-family="Arial, sans-serif" font-size="18" font-weight="600" text-anchor="start" letter-spacing="0">POSITION-BOUNDED REPLAY - NORMALIZED EVENT ORDER AND CORRESPONDENCE</text>
+<text x="70.00" y="210.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="22" font-weight="600" text-anchor="start" letter-spacing="0">STOP</text>
+<line x1="300.00" y1="210.00" x2="1450.00" y2="210.00" stroke="#e2e8f0" stroke-width="8"/>
+<circle cx="320.00" cy="188.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="441.11" cy="188.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="562.22" cy="188.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="683.33" cy="188.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="804.44" cy="188.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="925.56" cy="188.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="1046.67" cy="188.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="1167.78" cy="188.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="1288.89" cy="188.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="1410.00" cy="188.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="320.00" cy="234.00" r="7.00" fill="#2563eb" stroke="none"/>
+<circle cx="456.25" cy="234.00" r="7.00" fill="#2563eb" stroke="none"/>
+<circle cx="592.50" cy="234.00" r="7.00" fill="#2563eb" stroke="none"/>
+<circle cx="728.75" cy="234.00" r="7.00" fill="#2563eb" stroke="none"/>
+<circle cx="865.00" cy="234.00" r="7.00" fill="#2563eb" stroke="none"/>
+<circle cx="1001.25" cy="234.00" r="7.00" fill="#2563eb" stroke="none"/>
+<circle cx="1137.50" cy="234.00" r="7.00" fill="#2563eb" stroke="none"/>
+<circle cx="1273.75" cy="234.00" r="7.00" fill="#2563eb" stroke="none"/>
+<circle cx="1410.00" cy="234.00" r="7.00" fill="#2563eb" stroke="none"/>
+<text x="300.00" y="285.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="600" text-anchor="start" letter-spacing="0">SOURCE 10  REPLAY 9  F1 0.842</text>
+<text x="70.00" y="390.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="22" font-weight="600" text-anchor="start" letter-spacing="0">TURN</text>
+<line x1="300.00" y1="390.00" x2="1450.00" y2="390.00" stroke="#e2e8f0" stroke-width="8"/>
+<circle cx="320.00" cy="368.00" r="7.00" fill="#1f2937" stroke="none"/>
+<text x="300.00" y="465.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="600" text-anchor="start" letter-spacing="0">SOURCE 1  REPLAY 0  F1 0.000</text>
+<text x="70.00" y="570.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="22" font-weight="600" text-anchor="start" letter-spacing="0">ACCELERATION</text>
+<line x1="300.00" y1="570.00" x2="1450.00" y2="570.00" stroke="#e2e8f0" stroke-width="8"/>
+<circle cx="320.00" cy="548.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="865.00" cy="548.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="1410.00" cy="548.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="320.00" cy="594.00" r="7.00" fill="#059669" stroke="none"/>
+<circle cx="1410.00" cy="594.00" r="7.00" fill="#059669" stroke="none"/>
+<text x="300.00" y="645.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="600" text-anchor="start" letter-spacing="0">SOURCE 3  REPLAY 2  F1 0.400</text>
+<text x="70.00" y="750.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="22" font-weight="600" text-anchor="start" letter-spacing="0">BRAKING</text>
+<line x1="300.00" y1="750.00" x2="1450.00" y2="750.00" stroke="#e2e8f0" stroke-width="8"/>
+<circle cx="320.00" cy="728.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="683.33" cy="728.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="1046.67" cy="728.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="1410.00" cy="728.00" r="7.00" fill="#1f2937" stroke="none"/>
+<circle cx="320.00" cy="774.00" r="7.00" fill="#e14e46" stroke="none"/>
+<circle cx="865.00" cy="774.00" r="7.00" fill="#e14e46" stroke="none"/>
+<circle cx="1410.00" cy="774.00" r="7.00" fill="#e14e46" stroke="none"/>
+<text x="300.00" y="825.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="600" text-anchor="start" letter-spacing="0">SOURCE 4  REPLAY 3  F1 0.286</text>
+</svg>

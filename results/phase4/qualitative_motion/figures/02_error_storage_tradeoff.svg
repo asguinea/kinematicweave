@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<title>Error-storage tradeoff</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="70.00" y="70.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="34" font-weight="600" text-anchor="start" letter-spacing="0">ERROR-STORAGE TRADEOFF</text>
+<text x="70.00" y="110.00" fill="#64748b" font-family="Arial, sans-serif" font-size="18" font-weight="600" text-anchor="start" letter-spacing="0">X = ACTUAL SERIALIZED-BYTE RATIO</text>
+<text x="70.00" y="132.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="20" font-weight="600" text-anchor="start" letter-spacing="0">MEAN POSITION ERROR (M)</text>
+<line x1="70.00" y1="150.00" x2="750.00" y2="150.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="70.00" y1="220.00" x2="750.00" y2="220.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="70.00" y1="290.00" x2="750.00" y2="290.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="70.00" y1="360.00" x2="750.00" y2="360.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="70.00" y1="430.00" x2="750.00" y2="430.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="70.00" y1="150.00" x2="70.00" y2="430.00" stroke="#1f2937" stroke-width="2"/>
+<line x1="70.00" y1="430.00" x2="750.00" y2="430.00" stroke="#1f2937" stroke-width="2"/>
+<circle cx="446.27" cy="428.58" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="750.00" cy="430.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="260.15" cy="420.56" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="446.32" cy="428.53" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="260.16" cy="421.24" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="170.06" cy="324.81" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="148.33" cy="170.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="199.40" cy="403.68" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="199.30" cy="402.06" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="206.62" cy="418.57" r="9.00" fill="#2563eb" stroke="none"/>
+<circle cx="202.29" cy="421.46" r="9.00" fill="#059669" stroke="none"/>
+<circle cx="339.25" cy="430.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="260.06" cy="421.24" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="196.52" cy="421.46" r="9.00" fill="#e14e46" stroke="none"/>
+<circle cx="199.40" cy="402.06" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="154.72" cy="234.84" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="446.20" cy="428.58" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="188.98" cy="369.92" r="9.00" fill="#ca8a04" stroke="none"/>
+<text x="840.00" y="132.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="20" font-weight="600" text-anchor="start" letter-spacing="0">P95 POSITION ERROR (M)</text>
+<line x1="840.00" y1="150.00" x2="1520.00" y2="150.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="840.00" y1="220.00" x2="1520.00" y2="220.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="840.00" y1="290.00" x2="1520.00" y2="290.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="840.00" y1="360.00" x2="1520.00" y2="360.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="840.00" y1="430.00" x2="1520.00" y2="430.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="840.00" y1="150.00" x2="840.00" y2="430.00" stroke="#1f2937" stroke-width="2"/>
+<line x1="840.00" y1="430.00" x2="1520.00" y2="430.00" stroke="#1f2937" stroke-width="2"/>
+<circle cx="1216.27" cy="428.32" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1520.00" cy="430.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1030.15" cy="420.59" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1216.32" cy="428.27" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1030.16" cy="421.09" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="940.06" cy="340.93" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="918.33" cy="170.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="969.40" cy="404.09" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="969.30" cy="403.09" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="976.62" cy="425.03" r="9.00" fill="#2563eb" stroke="none"/>
+<circle cx="972.29" cy="425.64" r="9.00" fill="#059669" stroke="none"/>
+<circle cx="1109.25" cy="430.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1030.06" cy="421.09" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="966.52" cy="425.63" r="9.00" fill="#e14e46" stroke="none"/>
+<circle cx="969.40" cy="403.09" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="924.72" cy="246.26" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1216.20" cy="428.32" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="958.98" cy="378.83" r="9.00" fill="#ca8a04" stroke="none"/>
+<text x="70.00" y="532.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="20" font-weight="600" text-anchor="start" letter-spacing="0">MEAN VELOCITY ERROR (M/S)</text>
+<line x1="70.00" y1="550.00" x2="750.00" y2="550.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="70.00" y1="620.00" x2="750.00" y2="620.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="70.00" y1="690.00" x2="750.00" y2="690.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="70.00" y1="760.00" x2="750.00" y2="760.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="70.00" y1="830.00" x2="750.00" y2="830.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="70.00" y1="550.00" x2="70.00" y2="830.00" stroke="#1f2937" stroke-width="2"/>
+<line x1="70.00" y1="830.00" x2="750.00" y2="830.00" stroke="#1f2937" stroke-width="2"/>
+<circle cx="446.27" cy="824.56" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="750.00" cy="830.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="260.15" cy="594.31" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="446.32" cy="635.66" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="260.16" cy="805.15" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="170.06" cy="700.01" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="148.33" cy="570.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="199.40" cy="619.43" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="199.30" cy="769.69" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="206.62" cy="793.71" r="9.00" fill="#2563eb" stroke="none"/>
+<circle cx="202.29" cy="778.01" r="9.00" fill="#059669" stroke="none"/>
+<circle cx="339.25" cy="830.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="260.06" cy="805.15" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="196.52" cy="707.59" r="9.00" fill="#e14e46" stroke="none"/>
+<circle cx="199.40" cy="769.69" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="154.72" cy="627.06" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="446.20" cy="824.56" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="188.98" cy="743.47" r="9.00" fill="#ca8a04" stroke="none"/>
+<text x="840.00" y="532.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="20" font-weight="600" text-anchor="start" letter-spacing="0">SEMANTIC F1</text>
+<line x1="840.00" y1="550.00" x2="1520.00" y2="550.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="840.00" y1="620.00" x2="1520.00" y2="620.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="840.00" y1="690.00" x2="1520.00" y2="690.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="840.00" y1="760.00" x2="1520.00" y2="760.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="840.00" y1="830.00" x2="1520.00" y2="830.00" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="840.00" y1="550.00" x2="840.00" y2="830.00" stroke="#1f2937" stroke-width="2"/>
+<line x1="840.00" y1="830.00" x2="1520.00" y2="830.00" stroke="#1f2937" stroke-width="2"/>
+<circle cx="1216.27" cy="584.93" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1520.00" cy="570.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1030.15" cy="811.01" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1216.32" cy="830.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1030.16" cy="611.11" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="940.06" cy="660.98" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="918.33" cy="706.64" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="969.40" cy="824.05" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="969.30" cy="641.13" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="976.62" cy="622.77" r="9.00" fill="#2563eb" stroke="none"/>
+<circle cx="972.29" cy="638.44" r="9.00" fill="#059669" stroke="none"/>
+<circle cx="1109.25" cy="570.00" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1030.06" cy="611.11" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="966.52" cy="733.70" r="9.00" fill="#e14e46" stroke="none"/>
+<circle cx="969.40" cy="641.13" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="924.72" cy="687.23" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="1216.20" cy="584.93" r="5.00" fill="#64748b" stroke="none"/>
+<circle cx="958.98" cy="643.11" r="9.00" fill="#ca8a04" stroke="none"/>
+<circle cx="70.00" cy="894.00" r="7.00" fill="#2563eb" stroke="none"/>
+<text x="92.00" y="900.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="0">POSITION BOUNDED</text>
+<circle cx="840.00" cy="894.00" r="7.00" fill="#059669" stroke="none"/>
+<text x="862.00" y="900.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="0">POSITION/VELOCITY HYBRID</text>
+<circle cx="70.00" cy="929.00" r="7.00" fill="#e14e46" stroke="none"/>
+<text x="92.00" y="935.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="0">UNCONSTRAINED HERMITE</text>
+<circle cx="840.00" cy="929.00" r="7.00" fill="#ca8a04" stroke="none"/>
+<text x="862.00" y="935.00" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" letter-spacing="0">RDP 0.05 M</text>
+</svg>
